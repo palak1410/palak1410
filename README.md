@@ -1,7 +1,7 @@
 - 👋 Hi, I’m PALAK AGARWAL!!
 - 👀 I’m interested in competitive coding and problem solving.
-- 🌱 I’m currently learning development domain and trying to have some grab over deep learning and neural networks..
-- 💞️ I’m looking to collaborate on CP if anyone is interested contact me on the below mentioned address :)
+- 🌱 I’m currently learning development domain.
+- 💡 I’m looking to collaborate on CP if anyone is interested contact me on the below mentioned address :)
 - 📫 How to reach me? You can mail me at palakag1410@gmail.com
 
 <!---
